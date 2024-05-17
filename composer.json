@@ -1,5 +1,18 @@
 {
     "name": "grhone/laravel-settings",
+    "description": "A Laravel package to add settings to your models.",
+    "keywords": [
+        "grhone",
+        "laravel",
+        "settings"
+    ],
+    "homepage": "https://github.com/grhone/laravel-settings",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Grhone"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Grhone\\LaravelSettings\\": "src/"
