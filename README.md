@@ -43,7 +43,7 @@ To use settings with your Eloquent models, simply add the `HasSettings` trait to
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use Grhone\LaravelSettings\Traits\HasSetting;
+use Grhone\LaravelSettings\Traits\HasSettings;
 
 class Event extends Model
 {
