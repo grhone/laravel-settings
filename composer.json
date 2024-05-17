@@ -1,0 +1,17 @@
+{
+    "name": "grhone/laravel-settings",
+    "autoload": {
+        "psr-4": {
+            "Grhone\\LaravelSettings\\": "src/"
+        }
+    },
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Grhone\\LaravelSettings\\SettingsServiceProvider"
+            ]
+        }
+    }
+    
+}
