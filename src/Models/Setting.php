@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace\Settings\Models;
+namespace Grhone\LaravelSettings\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
